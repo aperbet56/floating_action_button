@@ -6,7 +6,7 @@ Création d'un bouton flottant permettant d'ouvrir une navigation / un menu.
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/floating_action_button/
 
 ## Développez avec
 
